@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cadastro de Jogos</string>
+    <string name="titulo_home">Cadastro de Jogos</string>
+    <string name="lbl_nome">Nome:</string>
+    <string name="ed_nome">Escreva o nome</string>
+    <string name="lbl_ano">Lançamento:</string>
+    <string name="ed_ano">Escreva o ano de lançamento</string>
+    <string name="lbl_genero">Gênero:</string>
+    <string name="ed_genero">Escreva o gênero do jogo</string>
+    <string name="btn_salvar">Salvar Jogos</string>
+    <string name="btn_listar">Listar Jogos</string>
+</resources>
